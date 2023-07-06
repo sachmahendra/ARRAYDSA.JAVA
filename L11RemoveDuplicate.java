@@ -11,8 +11,8 @@ public class L11RemoveDuplicate {
         return res;
     }
     public static void main(String[] args) {
-       int  arr[]={10,20,20,30,30,30};
-       int n=6;
+       int  arr[]={10,10,15,20,30,30,30};
+       int n=7;
        System.out.println("Before Removal");
 
        for(int i = 0; i < n; i++)
